@@ -6,7 +6,7 @@
 
 Откройте последний релиз проекта (ниже надписи “Releases”).
 
-![v2rayn-репозиторий](assets/v2rayn-repo.png)
+![v2rayn-репозиторий](../assets/v2rayn-repo.png)
 
 > ⚠️ Номер релиза может отличаться.
 
@@ -84,7 +84,7 @@ sudo xattr -r -c /Applications/v2rayN.app/
 
 Открываем пункт: `Настройки -> Настройка региональных пресетов -> Россия`.
 
-![v2ray-dmg](assets/v2rayn-rules-download.png)
+![v2ray-dmg](../assets/v2rayn-rules-download.png)
 
 Ждём, пока установка правил закончится.
 
