@@ -1,14 +1,14 @@
 # Happ - клиент для подключения к VLESS
 
-Для подключения к VLESS в Android будем использовать **Happ**.
-
----
+Для подключения к VLESS на iPhone и iPad будем использовать **Happ**.
 
 ## Шаг 1. Установка
 
-Скачиваем приложение из Google Play: 
+Скачиваем приложение из AppStore: 
 
-https://play.google.com/store/apps/details?id=com.happproxy&hl=ru
+https://apps.apple.com/us/app/happ-proxy-utility
+
+Если приложение недоступно - [смените регион AppStore](https://t-j.ru/apple-region/?utm_referrer=https%3A%2F%2Fwww.google.com%2F)
 
 ---
 
@@ -18,7 +18,7 @@ https://play.google.com/store/apps/details?id=com.happproxy&hl=ru
 
 Заходим в приложение.
 
-![img.png](assets/main-screen.png)
+![img.png](assets/main-page.png)
 
 Нажимаем кнопку **Из буфера**. После этого должно появиться подключение.
 
@@ -30,7 +30,7 @@ https://play.google.com/store/apps/details?id=com.happproxy&hl=ru
 
 Открываем веб-браузер и переходим по ссылке [routing.help](routing.help)
 
-![img.png](assets/routing-site.png)
+![img.png](assets/routing-link.png)
 
 Соглашаемся на переход в приложение Happ.
 
@@ -38,7 +38,7 @@ https://play.google.com/store/apps/details?id=com.happproxy&hl=ru
 
 Должно появиться уведомление, что профиль успешно добавлен.
 
-![img.png](assets/success.png)
+![img.png](assets/routing-success.png)
 
 ---
 
@@ -46,9 +46,18 @@ https://play.google.com/store/apps/details?id=com.happproxy&hl=ru
 
 Для подключения к VPN нажмите большую кнопку.
 
+Приложение запросит разрешение на добавление конфигурации VPN - соглашайтесь.
+
+![img.png](assets/add-profile-request.png)
+
+Введите пин-код от смартфона
+
+![img.png](assets/pincode.png)
+
+После этого в приложении должно отображаться, что VPN подключён.
+
 ![img_1.png](assets/connection-success.png)
 
 VPN работает! Можете проверять доступ к заблокированным ресурсам.
 
 Для отключения от VPN нажмите большую кнопку ещё раз.
-
